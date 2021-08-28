@@ -9,6 +9,7 @@ The generated image is then compared to the actual mapping, and the model adjust
 ### **Software requirements**
 1. Python 3.7 or above
 2. Jupyter notebooks
+3. Download [Pix2Pix](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
 
 ### **Standard CPU-based implementation**
 
@@ -17,7 +18,8 @@ The generated image is then compared to the actual mapping, and the model adjust
 #### **II - Set up the virtual environment**
 1. Create a new folder and name it as Satellite2Map.
 2. Copy Translation4_MultiGPU.ipynb from cloned repository and place it inside Satellite2Map folder.
-3. In Jupyter notebooks, open Translation4_MultiGPU in preparation to run the notebook. 
+3. Put the Pix2Pix file into your Satellite2Map folder.
+4. In Jupyter notebooks, open Translation4_MultiGPU in preparation to run the notebook. 
 
 #### **III - Install python packages**
       
