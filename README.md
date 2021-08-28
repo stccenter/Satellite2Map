@@ -1,8 +1,9 @@
 ### **WIP**
+Get more specific with the methodology. Consult Yun. 
 
 ### **Introduction**
 This git repository is created for the satellite mapping project. This project is implemented in this method:
-1. Standard CPU based - "Translation4_MultiGPU.ipynb" notebook is to train a discriminator model that utilizes multiple GPUs, to accurately map satellite imagery to simpler maps. 
+1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook is to train a discriminator model that utilizes multiple GPUs, to accurately map satellite imagery to simpler maps. 
 
 The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
 
