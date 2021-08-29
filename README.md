@@ -1,6 +1,3 @@
-### **WIP**
-Get more specific with the methodology. Consult Yun. 
-
 ### **Introduction**
 This git repository is created for the satellite mapping project. This project is implemented in this method:
 1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook is to train a discriminator model that utilizes multiple GPUs, to accurately map satellite imagery to simpler maps. 
@@ -28,7 +25,8 @@ The generated image is then compared to the actual mapping, and the model adjust
 
 #### **IV Download the data**
 1. Click the [link](LINKHERE) and download the input data.
-2. Place the downloaded "maps_256.npc" file inside Satellite2Map folder
+2. Place the downloaded "maps.tar.npc" file inside Satellite2Map folder
+3. Rename the path in chunk 3 according to the new path location.
 
 #### **V - Run the notebook**
 Now, we are all set to run the Jupyter notebook.
