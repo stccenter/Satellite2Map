@@ -7,7 +7,7 @@ The generated image is then compared to the actual mapping, and the model adjust
 ### **Software requirements**
 1. Python 3.7 or above
 2. Jupyter notebooks
-3. Download [Pix2Pix](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
+3. Download [maps_256.npc](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
 
 ### **Standard CPU-based implementation**
 
@@ -16,8 +16,7 @@ The generated image is then compared to the actual mapping, and the model adjust
 #### **II - Set up the virtual environment**
 1. Create a new folder and name it as Satellite2Map.
 2. Copy Translation4_MultiGPU.ipynb from cloned repository and place it inside Satellite2Map folder.
-3. Put the Pix2Pix file into your Satellite2Map folder.
-4. In Jupyter notebooks, open Translation4_MultiGPU in preparation to run the notebook. 
+3. In Jupyter notebooks, open Translation4_MultiGPU in preparation to run the notebook. 
 
 #### **III - Install python packages**
       
