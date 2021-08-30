@@ -7,7 +7,7 @@ The generated image is then compared to the actual mapping, and the model adjust
 ### **Software requirements**
 1. Python 3.7 or above
 2. Jupyter notebooks
-3. Download [Pix2Pix](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
+3. Download [Pix2Pix](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
 
 ### **Standard CPU-based implementation**
 
@@ -24,9 +24,8 @@ The generated image is then compared to the actual mapping, and the model adjust
             pip install TensorFlow tensorflow_datasets numpy time random matplotlib       
 
 #### **IV Download the data**
-1. Click the [link](LINKHERE) and download the input data.
-2. Place the downloaded "maps.tar.npc" file inside Satellite2Map folder
-3. Rename the path in chunk 3 according to the new path location.
+1. Place the downloaded "maps_256.npc" file inside Satellite2Map folder
+2. Rename the path in chunk 3 according to the new path location.
 
 #### **V - Run the notebook**
 Now, we are all set to run the Jupyter notebook.
