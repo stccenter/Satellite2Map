@@ -25,5 +25,5 @@ This project implementation consists of the following methods:
 1. Place the downloaded "maps_256.npz" file inside Satellite2Map folder
 2. Rename the path in chunk 3 according to the new path location.
 
-###### **Run the notebook**
+## **Run the model**
 Now, we are all set to run the Jupyter notebook.
