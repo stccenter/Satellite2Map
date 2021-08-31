@@ -19,7 +19,7 @@ This project implementation consists of the following methods:
 
 ###### **Install python packages**
       
-            pip install TensorFlow tensorflow_datasets numpy time random matplotlib       
+            pip install -r requirements.txt      
 
 ###### **Download the data**
 1. Place the downloaded "maps_256.npz" file inside Satellite2Map folder
