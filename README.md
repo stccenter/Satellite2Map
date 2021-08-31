@@ -1,6 +1,6 @@
 ### **Introduction**
 This git repository is created for the satellite mapping project. This project is implemented in this method:
-1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook is to train a discriminator model that utilizes multiple GPUs, to accurately map satellite imagery to simpler maps. 
+1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
 
 The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
 
@@ -16,7 +16,7 @@ The generated image is then compared to the actual mapping, and the model adjust
 #### **II - Set up the virtual environment**
 1. Create a new folder and name it as Satellite2Map.
 2. Copy Translation4_MultiGPU.ipynb from cloned repository and place it inside Satellite2Map folder.
-3. In Jupyter notebooks, open Translation4_MultiGPU in preparation to run the notebook. 
+3. In Jupyter notebook, open Translation4_MultiGPU in preparation to run the notebook. 
 
 #### **III - Install python packages**
       
