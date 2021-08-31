@@ -1,4 +1,4 @@
-### **Introduction: Satellite 2 Map**
+# **Introduction: Satellite 2 Map**
 This project implementation consists of the following methods:
 1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
 2. The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
@@ -10,20 +10,20 @@ This project implementation consists of the following methods:
 
 ### **Standard CPU-based implementation**
 
-#### **I - Clone the repository**
+###### **Clone the repository**
 
-#### **II - Set up the virtual environment**
+###### **Set up the virtual environment**
 1. Create a new folder and name it as Satellite2Map.
 2. Copy Translation4_MultiGPU.ipynb from cloned repository and place it inside Satellite2Map folder.
 3. In Jupyter notebook, open Translation4_MultiGPU in preparation to run the notebook. 
 
-#### **III - Install python packages**
+###### **Install python packages**
       
             pip install TensorFlow tensorflow_datasets numpy time random matplotlib       
 
-#### **IV Download the data**
+###### **Download the data**
 1. Place the downloaded "maps_256.npz" file inside Satellite2Map folder
 2. Rename the path in chunk 3 according to the new path location.
 
-#### **V - Run the notebook**
+###### **Run the notebook**
 Now, we are all set to run the Jupyter notebook.
