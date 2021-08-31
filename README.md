@@ -1,4 +1,4 @@
-### **Introduction**
+### **Introduction: Satellite 2 Map**
 This git repository is created for the satellite mapping project. This project is implemented in this method:
 1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
 
