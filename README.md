@@ -1,8 +1,7 @@
 ### **Introduction: Satellite 2 Map**
 This project implementation consists of the following methods:
 1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
-
-The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
+2. The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
 
 ### **Software requirements**
 1. Python 3.7 or above
