@@ -29,5 +29,5 @@ This project implementation consists of the following methods:
 Now, we are all set to run the Jupyter notebook.
 
 ## **Walkthrough Video**
-**Implementation**
+**Implementation**\
 [<img src="https://github.com/stccenter/Satellite2Map/blob/main/Images/Videos.jpg" width="60%">](https://www.youtube.com/watch?v=QWrKGtk5a0I)
