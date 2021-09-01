@@ -27,3 +27,7 @@ This project implementation consists of the following methods:
 
 ## **Run the model**
 Now, we are all set to run the Jupyter notebook.
+
+## **Walkthrough Video**
+**Implementation**
+[<img src="https://github.com/stccenter/Satellite2Map/blob/main/Images/Videos.jpg" width="60%">](https://www.youtube.com/watch?v=QWrKGtk5a0I)
