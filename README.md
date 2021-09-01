@@ -8,7 +8,7 @@ This project implementation consists of the following methods:
 2. Jupyter notebooks
 3. Download [maps_256.npz](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
 
-### **Standard CPU-based implementation**
+### **Standard GPU-based implementation**
 
 ###### **Clone the repository**
 
