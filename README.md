@@ -5,7 +5,7 @@ This project implementation consists of the following methods:
 
 ### **Software requirements**
 1. Python 3.7 or above
-2. Jupyter notebooks
+2. Visual Studio Code or another Python IDE
 3. Download [maps_256.npz](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
 
 ### **Standard GPU-based implementation**
@@ -14,8 +14,8 @@ This project implementation consists of the following methods:
 
 ###### **Set up the virtual environment**
 1. Create a new folder and name it as Satellite2Map.
-2. Copy Translation4_MultiGPU.ipynb from cloned repository and place it inside Satellite2Map folder.
-3. In Jupyter notebook, open Translation4_MultiGPU in preparation to run the notebook. 
+2. Copy satellite2map.py from cloned repository and place it inside Satellite2Map folder.
+3. In Visual Studio Code, open satellite2map.py in preparation to run the script. 
 
 ###### **Install python packages**
       
@@ -26,7 +26,7 @@ This project implementation consists of the following methods:
 2. Rename the path in chunk 3 according to the new path location.
 
 ## **Run the model**
-Now, we are all set to run the Jupyter notebook.
+Now, we are all set to run the script.
 
 ## **Walkthrough Video**
 **Implementation**\
