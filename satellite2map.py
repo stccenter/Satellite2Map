@@ -296,7 +296,7 @@ batch_size = 8
 with strategy.scope():
 
     # load image data
-    dataset = np.array(load_real_samples('/att/nobackup/kswang/satellite2map/maps_256.npz'))
+    dataset = np.array(load_real_samples('maps_256.npz'))
     print('Loaded', dataset[0].shape, dataset[1].shape, dataset[2].shape, dataset[3].shape)
     # define input shape based on the loaded dataset
     image_shape = dataset[0].shape[1:]
