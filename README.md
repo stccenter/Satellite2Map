@@ -30,4 +30,4 @@ Now, we are all set to run the script.
 
 ## **Walkthrough Video**
 **Implementation**\
-[<img src="https://github.com/stccenter/Satellite2Map/blob/main/Images/Videos.jpg" width="60%">](https://www.youtube.com/watch?v=QWrKGtk5a0I)
+[<img src="https://github.com/stccenter/Satellite2Map/blob/main/Images/Videos.jpg" width="60%">](https://youtu.be/W8YkFw8Y_ew)
