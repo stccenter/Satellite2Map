@@ -1,12 +1,12 @@
 # **Introduction: Satellite 2 Map**
 This project implementation consists of the following methods:
-1. Standard GPU based - "Translation4_MultiGPU.ipynb" notebook trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
+1. Standard GPU based - "satellite2map.py" script trains a discriminator model that utilizes multiple GPUs to accurately map satellite imagery to simpler maps. 
 2. The generated image is then compared to the actual mapping, and the model adjusts itself accordingly.
 
 ### **Software requirements**
 1. Python 3.7 or above
 2. Visual Studio Code or another Python IDE
-3. Download [maps_256.npz](https://gmuedu.sharepoint.com/sites/REU-GRP/Shared%20Documents/General/Image%20Mapping/maps_256.npz)
+3. Download [maps_256.npz](https://drive.google.com/file/d/1B-69QY4RIUHgJk0L-TeU761N222xd8O8/view?usp=sharing)
 
 ### **Standard GPU-based implementation**
 
