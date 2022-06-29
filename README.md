@@ -17,6 +17,10 @@ This project implementation consists of the following methods:
 2. Copy satellite2map.py from cloned repository and place it inside Satellite2Map folder.
 3. In Visual Studio Code, open satellite2map.py in preparation to run the script. 
 
+####  **Set up the  conda environment**
+        conda create -n  satellite2map python=3.8
+        conda activate satellite2map
+
 ###### **Install python packages**
       
             pip install -r requirements.txt      
@@ -27,7 +31,7 @@ This project implementation consists of the following methods:
 
 ## **Run the model**
 Now, we are all set to run the script.
-
+ python satellite2map.py
 ## **Walkthrough Video**
 **Implementation**\
 [<img src="https://github.com/stccenter/Satellite2Map/blob/main/Images/Videos.jpg" width="60%">](https://youtu.be/W8YkFw8Y_ew)
